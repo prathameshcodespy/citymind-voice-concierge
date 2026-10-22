@@ -1,0 +1,14 @@
+{
+  "name": "citymind-mcp",
+  "version": "0.1.0",
+  "description": "Self-hosted MCP server (Streamable HTTP) giving Alexa+ a Maharashtra city guide and day planner",
+  "type": "module",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": ">=1.20.0",
+    "express": "^4.21.2",
+    "zod": "^3.25.0"
+  }
+}

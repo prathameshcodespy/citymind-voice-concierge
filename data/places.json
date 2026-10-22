@@ -1,0 +1,30 @@
+{
+  "_note": "Curated starter dataset written by hand. Hours, fees and timings are NOT included on purpose; verify locally before visiting.",
+  "cities": {
+    "pune": "Pune", "mumbai": "Mumbai", "nashik": "Nashik",
+    "nagpur": "Nagpur", "kolhapur": "Kolhapur", "sambhajinagar": "Chhatrapati Sambhajinagar"
+  },
+  "places": [
+    {"id":"pune-shaniwar-wada","city":"pune","name":"Shaniwar Wada","category":"heritage","area":"Old Pune","bestTime":"morning","durationMins":90,"note":"18th-century Peshwa-era fortified palace complex."},
+    {"id":"pune-aga-khan-palace","city":"pune","name":"Aga Khan Palace","category":"heritage","area":"Yerawada","bestTime":"morning","durationMins":90,"note":"Palace linked to the Indian independence movement."},
+    {"id":"pune-dagdusheth","city":"pune","name":"Dagdusheth Halwai Ganpati Temple","category":"religious","area":"Budhwar Peth","bestTime":"evening","durationMins":45,"note":"Well-known Ganesh temple, busiest during Ganesh festival."},
+    {"id":"pune-parvati","city":"pune","name":"Parvati Hill","category":"viewpoint","area":"Parvati","bestTime":"morning","durationMins":90,"note":"Hill with temples and a city view, reached by steps."},
+    {"id":"pune-sinhagad","city":"pune","name":"Sinhagad Fort","category":"nature","area":"Outskirts, southwest","bestTime":"morning","durationMins":240,"note":"Hill fort with trekking access, plan a half day."},
+    {"id":"mumbai-gateway","city":"mumbai","name":"Gateway of India","category":"heritage","area":"Colaba","bestTime":"evening","durationMins":60,"note":"Waterfront arch monument; ferries to Elephanta leave nearby."},
+    {"id":"mumbai-cstmt","city":"mumbai","name":"Chhatrapati Shivaji Maharaj Terminus","category":"heritage","area":"Fort","bestTime":"morning","durationMins":45,"note":"Victorian Gothic railway station, a UNESCO World Heritage Site."},
+    {"id":"mumbai-marine-drive","city":"mumbai","name":"Marine Drive","category":"viewpoint","area":"South Mumbai","bestTime":"evening","durationMins":60,"note":"Seafront promenade, popular at sunset."},
+    {"id":"mumbai-elephanta","city":"mumbai","name":"Elephanta Caves","category":"heritage","area":"Elephanta Island (ferry)","bestTime":"morning","durationMins":240,"note":"Rock-cut cave temples on an island, reached by ferry."},
+    {"id":"mumbai-sgnp","city":"mumbai","name":"Sanjay Gandhi National Park (Kanheri Caves)","category":"nature","area":"Borivali","bestTime":"morning","durationMins":240,"note":"Forest park containing ancient Buddhist caves."},
+    {"id":"nashik-trimbakeshwar","city":"nashik","name":"Trimbakeshwar Temple","category":"religious","area":"Trimbak","bestTime":"morning","durationMins":120,"note":"Ancient Shiva temple near the source of the Godavari."},
+    {"id":"nashik-ramkund","city":"nashik","name":"Ramkund and Panchavati","category":"religious","area":"Panchavati","bestTime":"evening","durationMins":90,"note":"Sacred Godavari ghat area tied to the Ramayana."},
+    {"id":"nashik-pandavleni","city":"nashik","name":"Pandavleni Caves","category":"heritage","area":"Trirashmi Hills","bestTime":"morning","durationMins":120,"note":"Ancient Buddhist cave group on a hill, involves steps."},
+    {"id":"nashik-vineyards","city":"nashik","name":"Nashik vineyards","category":"food","area":"Gangapur Road side","bestTime":"afternoon","durationMins":120,"note":"Winery visits and tastings, Nashik is a known wine region."},
+    {"id":"nagpur-deekshabhoomi","city":"nagpur","name":"Deekshabhoomi","category":"religious","area":"Central Nagpur","bestTime":"morning","durationMins":60,"note":"Stupa where Dr. B. R. Ambedkar embraced Buddhism."},
+    {"id":"nagpur-sitabuldi","city":"nagpur","name":"Sitabuldi Fort","category":"heritage","area":"Sitabuldi","bestTime":"morning","durationMins":60,"note":"Historic hill fort in the city centre."},
+    {"id":"kolhapur-mahalaxmi","city":"kolhapur","name":"Mahalaxmi (Ambabai) Temple","category":"religious","area":"Old Kolhapur","bestTime":"morning","durationMins":90,"note":"Major temple of the goddess Mahalaxmi."},
+    {"id":"kolhapur-new-palace","city":"kolhapur","name":"New Palace (Chhatrapati Shahu Museum)","category":"heritage","area":"Kolhapur","bestTime":"afternoon","durationMins":90,"note":"Royal palace housing a museum."},
+    {"id":"sambhajinagar-ajanta","city":"sambhajinagar","name":"Ajanta Caves","category":"heritage","area":"About 100 km from the city","bestTime":"morning","durationMins":300,"note":"UNESCO World Heritage Buddhist cave paintings; a full-day trip."},
+    {"id":"sambhajinagar-ellora","city":"sambhajinagar","name":"Ellora Caves","category":"heritage","area":"About 30 km from the city","bestTime":"morning","durationMins":300,"note":"UNESCO World Heritage rock-cut temples including the Kailasa temple."},
+    {"id":"sambhajinagar-bibi","city":"sambhajinagar","name":"Bibi Ka Maqbara","category":"heritage","area":"Aurangabad side of the city","bestTime":"afternoon","durationMins":75,"note":"17th-century mausoleum often called the Taj of the Deccan."}
+  ]
+}
